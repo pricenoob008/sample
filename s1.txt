@@ -1,0 +1,3 @@
+
+Hello this is the sample 1 text file
+Way to go.
